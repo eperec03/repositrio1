@@ -3,8 +3,6 @@ UNO
 DOS
 TRES
 CUATRO
-CINCCERO
-
 
 
 
